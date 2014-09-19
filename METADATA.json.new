@@ -1,0 +1,32 @@
+{
+  "name": "Homenaje",
+  "designer": "Multiple Designers",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 12116,
+  "fonts": [
+    {
+      "name": "Homenaje",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Homenaje-Regular.ttf",
+      "postScriptName": "Homenaje-Regular",
+      "fullName": "Homenaje-Regular",
+      "copyright": "Copyright (c) 2011, Agustina Mingote (agustinamingote@gmail.com), Copyright (c) 2011, Constanza Artigas Preller (artigasconstanza@gmail.com), with Reserved Font Name 'Homenaje'"
+    },
+    {
+      "name": "Homenaje",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Homenaje-Regular-TTF.ttf",
+      "postScriptName": "Homenaje-Regular",
+      "fullName": "Homenaje-Regular",
+      "copyright": "Copyright (c) 2011, Agustina Mingote (agustinamingote@gmail.com), Copyright (c) 2011, Constanza Artigas Preller (artigasconstanza@gmail.com), with Reserved Font Name 'Homenaje'"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-01-18"
+}
